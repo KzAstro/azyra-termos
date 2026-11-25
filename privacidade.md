@@ -1,83 +1,89 @@
-# POLÍTICA DE PRIVACIDADE — AZYRA
+# Política de Privacidade — Azyra
 
 **Última atualização: 25 de novembro de 2026**
 
-A sua privacidade é importante para nós. Esta Política de Privacidade explica como o bot Azyra coleta, utiliza, armazena e protege informações durante sua utilização nos servidores Discord.
+A Azyra é um bot para Discord desenvolvido para oferecer ferramentas de moderação, gerenciamento, economia virtual e interação entre membros de servidores.
 
-Ao utilizar a Azyra, você declara estar ciente das práticas descritas nesta política.
+Esta Política de Privacidade explica quais informações podem ser coletadas, como são utilizadas, armazenadas e protegidas durante o uso da Azyra.
+
+Ao utilizar a Azyra, você declara estar ciente desta política.
 
 ## 1. Informações coletadas
 
-Para disponibilizar suas funcionalidades, a Azyra poderá utilizar e armazenar as seguintes informações:
+Para que suas funcionalidades funcionem corretamente, a Azyra poderá processar as seguintes informações:
 
-- **Identificação no Discord:** ID de usuários e servidores.
-- **Moderação:** registros de advertências e informações necessárias para executar ações de moderação.
-- **Economia virtual:** saldo, transações, recompensas, produtos e inventário dos usuários.
-- **Configurações do servidor:** prefixos personalizados, canais de registros, boas-vindas e outras configurações.
-- **Contribuições:** registros associados às contribuições realizadas por meio do sistema de vaquinha, quando essa funcionalidade estiver disponível.
+- **Identificação no Discord:** ID do usuário e ID do servidor.
+- **Moderação:** registros de advertências e outras ações administrativas realizadas por meio do bot.
+- **Economia virtual:** saldo, transações virtuais, produtos e itens do inventário.
+- **Configurações do servidor:** prefixo, canais configurados e preferências de funcionamento.
+- **Apoiadores e contribuições:** informações relacionadas às contribuições registradas pela funcionalidade de arrecadação, quando estiver disponível.
 
-A Azyra poderá receber informações adicionais disponibilizadas pela própria plataforma Discord durante a execução de seus comandos.
+A Azyra utiliza informações disponibilizadas pelo Discord conforme as permissões concedidas ao bot e as funcionalidades utilizadas.
 
 ## 2. Como utilizamos as informações
 
-As informações são utilizadas exclusivamente para:
+As informações processadas são utilizadas para:
 
 - Executar os comandos e funcionalidades da Azyra.
-- Manter os sistemas de moderação e administração.
-- Registrar advertências e ações administrativas.
+- Administrar os recursos de moderação.
+- Registrar advertências e outras ações administrativas.
 - Manter o funcionamento da economia virtual.
-- Salvar configurações individuais dos servidores.
-- Gerenciar o sistema de contribuições.
-- Identificar e corrigir erros e problemas técnicos.
-- Proteger a segurança e a integridade do serviço.
+- Salvar configurações específicas de cada servidor.
+- Melhorar a estabilidade e a segurança do bot.
+- Investigar erros, abusos e possíveis violações das regras.
 
-## 3. Armazenamento das informações
+As informações não são utilizadas para finalidades incompatíveis com o funcionamento e a segurança da Azyra.
 
-Os dados utilizados pela Azyra são armazenados em banco de dados e utilizados conforme a necessidade de cada funcionalidade.
+## 3. Armazenamento dos dados
 
-A infraestrutura de hospedagem poderá ser fornecida por serviços de terceiros, incluindo a Discloud.
+Os dados necessários ao funcionamento da Azyra podem ser armazenados em banco de dados e nos sistemas utilizados para hospedar o bot.
 
-Adotamos medidas razoáveis para proteger as informações contra acesso não autorizado, alteração, divulgação ou perda.
+A Azyra utiliza serviços de hospedagem, como a Discloud, para manter seu funcionamento.
 
-Entretanto, nenhum sistema de armazenamento ou transmissão de dados pode garantir segurança absoluta.
+São adotadas medidas razoáveis para proteger as informações contra acessos não autorizados, alterações indevidas ou perda de dados.
+
+Entretanto, nenhum sistema de armazenamento ou transmissão de informações pode garantir segurança absoluta.
 
 ## 4. Compartilhamento de informações
 
 A Azyra não comercializa informações pessoais dos usuários.
 
-As informações poderão ser processadas por serviços de terceiros necessários ao funcionamento do projeto, como:
+As informações poderão ser processadas ou compartilhadas com serviços de terceiros quando isso for necessário para o funcionamento do bot, incluindo:
 
 - **Discord:** plataforma na qual a Azyra funciona.
-- **Discloud:** serviço de hospedagem da aplicação.
-- **Mercado Pago:** provedor de pagamentos, caso o sistema de contribuições seja disponibilizado.
+- **Discloud:** serviço utilizado para hospedagem e execução do bot.
+- **Mercado Pago:** poderá ser utilizado para processar contribuições financeiras caso a funcionalidade de arrecadação seja disponibilizada.
 
-Esses serviços possuem suas próprias políticas de privacidade e condições de utilização.
+Cada serviço possui suas próprias políticas e condições de utilização.
 
 ## 5. Economia virtual
 
-Os dados relacionados à economia virtual são utilizados para manter saldos, transações, produtos e inventários.
+A Azyra possui funcionalidades de economia virtual, que podem incluir moedas, saldos, produtos e inventários.
 
-Essas informações são necessárias para o funcionamento dos recursos econômicos da Azyra.
+Esses recursos são exclusivamente virtuais e não representam dinheiro real, não possuem valor monetário garantido e não podem ser convertidos em dinheiro pela Azyra.
 
-As moedas e os itens virtuais não representam dinheiro real e não possuem valor monetário garantido.
+A equipe poderá realizar ajustes, redefinições ou alterações no sistema de economia quando necessário.
 
-## 6. Sistema de contribuições
+## 6. Contribuições financeiras
 
-A Azyra poderá disponibilizar um sistema voluntário de contribuições para ajudar a custear sua hospedagem e manutenção.
+A Azyra poderá disponibilizar uma funcionalidade de arrecadação voluntária para ajudar a custear despesas relacionadas ao desenvolvimento e à hospedagem do projeto.
 
-Quando esse sistema estiver disponível, poderão ser utilizados dados necessários para identificar e registrar as contribuições, como o ID do usuário no Discord, valores e identificadores das transações.
+Quando essa funcionalidade estiver disponível:
 
-Os pagamentos poderão ser processados por provedores externos, que tratarão as informações conforme suas próprias políticas.
+- As contribuições serão voluntárias.
+- O processamento dos pagamentos poderá ser realizado por serviços externos, como o Mercado Pago.
+- Informações necessárias para identificar e registrar contribuições poderão ser armazenadas.
+- Dados completos de cartão não deverão ser solicitados ou armazenados diretamente pela Azyra.
 
-A Azyra não armazena dados completos de cartões bancários.
+As condições específicas de cada arrecadação serão informadas quando aplicável.
 
 ## 7. Retenção e exclusão de dados
 
-As informações poderão permanecer armazenadas enquanto forem necessárias para disponibilizar as funcionalidades da Azyra, manter registros e cumprir obrigações aplicáveis.
+As informações poderão ser mantidas pelo período necessário para oferecer as funcionalidades da Azyra, preservar registros administrativos e garantir a segurança do serviço.
 
-Caso deseje solicitar a exclusão de informações associadas à sua conta, entre em contato com a equipe pelo servidor oficial de suporte.
+Caso um usuário ou administrador deseje solicitar informações sobre seus dados ou pedir sua exclusão, poderá entrar em contato com a equipe pelo servidor oficial de suporte.
 
-Alguns registros poderão ser mantidos quando houver necessidade legítima, obrigação legal ou necessidade de segurança, respeitando a legislação aplicável.
+As solicitações serão analisadas, considerando obrigações legais, necessidades de segurança e limitações técnicas.
 
 ## 8. Direitos dos usuários
 
@@ -87,28 +93,38 @@ Nos termos da legislação aplicável, incluindo a Lei Geral de Proteção de Da
 - Acesso às informações pessoais.
 - Correção de informações incorretas.
 - Exclusão ou anonimização de dados, quando cabível.
-- Informações sobre o tratamento e compartilhamento de dados.
+- Informações sobre o tratamento de seus dados.
 
-As solicitações poderão ser encaminhadas à equipe responsável pela Azyra.
+As solicitações deverão ser realizadas pelo servidor oficial de suporte da Azyra.
 
-## 9. Privacidade de menores
+## 9. Menores de idade
 
-A Azyra funciona dentro do Discord e está sujeita aos requisitos de idade e às regras estabelecidas pela plataforma.
+A Azyra não incentiva o fornecimento de informações pessoais desnecessárias por menores de idade.
 
-Não incentivamos o fornecimento de informações pessoais desnecessárias por menores de idade.
+O uso do Discord e de seus serviços deve respeitar os requisitos de idade e as condições estabelecidas pela própria plataforma.
 
-## 10. Alterações nesta política
+## 10. Serviços de terceiros
 
-Esta Política de Privacidade poderá ser atualizada para refletir mudanças nas funcionalidades, na infraestrutura ou nas práticas de tratamento de dados da Azyra.
+A Azyra depende de serviços externos para funcionar, especialmente o Discord e a plataforma de hospedagem.
 
-Alterações relevantes poderão ser comunicadas no servidor oficial.
+A equipe da Azyra não controla integralmente as práticas de privacidade, segurança ou disponibilidade desses serviços.
 
-## 11. Contato
+Recomendamos que os usuários consultem as políticas dos respectivos fornecedores.
 
-Para dúvidas, solicitações ou questões relacionadas à privacidade e ao tratamento de dados, entre em contato com a equipe da Azyra pelo servidor oficial de suporte.
+## 11. Alterações nesta política
+
+Esta Política de Privacidade poderá ser atualizada para refletir mudanças nas funcionalidades da Azyra, nos serviços utilizados ou nas exigências legais.
+
+A versão mais recente será disponibilizada nesta mesma página.
+
+A continuidade do uso da Azyra após alterações representa ciência da política atualizada.
+
+## 12. Contato e suporte
+
+Para dúvidas, solicitações relacionadas à privacidade, pedidos envolvendo dados pessoais ou outras questões sobre a Azyra, entre em contato com nossa equipe pelo **servidor oficial de suporte da Azyra no Discord**.
+
+O servidor de suporte é o canal oficial de atendimento para essas solicitações.
 
 ---
 
-**AZYRA — Tecnologia, praticidade e inovação.**
-
-Esta política deve ser consultada juntamente com os Termos de Serviço da Azyra.
+**Azyra — Desenvolvida para comunidades do Discord.**
