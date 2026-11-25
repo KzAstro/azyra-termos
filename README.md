@@ -1,0 +1,2 @@
+# azyra-termos
+Termos Azyra
